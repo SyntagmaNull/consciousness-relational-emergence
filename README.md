@@ -41,7 +41,7 @@ Supplementary materials for the paper proposing consciousness as relational dyna
 }
 ```
 
-**Repository DOI:** `10.5281/zenodo.XXXXXX` (to be assigned)
+
 
 
 ## 📧 Contact
